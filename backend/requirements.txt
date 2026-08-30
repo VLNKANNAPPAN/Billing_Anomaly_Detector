@@ -1,0 +1,8 @@
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+sqlalchemy>=2.0,<3.0
+alembic>=1.14,<2.0
+# Used to exercise FastAPI routes locally during development.
+httpx>=0.27,<1.0
+redis>=5.0,<7.0
+requests>=2.31,<3.0

@@ -1,0 +1,6 @@
+# Rebuild these locally from requirements and the database setup code.
+backend/.venv/
+backend/billing_anomaly.db
+backend/.env
+backend/**/__pycache__/
+*.py[cod]
